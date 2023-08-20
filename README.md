@@ -1,6 +1,6 @@
 # Spotify Backup
 
-1 August 2023
+21 August 2023
 
 An app to back up Spotify playlists into JSON files. 
 This app is intended to be run locally.
