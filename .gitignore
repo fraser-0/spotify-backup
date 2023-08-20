@@ -1,15 +1,37 @@
+# Project specific ignores
+#
+# Add any project specific files to ignore here.
+
 # OS
+#
+# Ignore all files that the OS automatically creates in a directory.
 .DS_Store
 
-# IDE
+# IDEs
+#
+# Ignore all files that IDEs automatically create in a directory.
 .idea
 .fleet
 
-# Packages
+# Sensitive
+#
+# Ignore sensitive files that should not be shared.
+*.env
+*.env.dev
+*.env.development
+*.env.uat
+*.env.prod
+*.env.production
+*.cer
+*.p12
+*.p8
+*.pem
+*.key
+*.key.pub
+
+# Node
+
+# Dependency directories
+#
+# Remove all directories that are used to store dependencies.
 node_modules
-
-# Secrets
-.env
-
-# Application files
-playlists
