@@ -1,5 +1,6 @@
 # IDE
 .idea
+.fleet
 
 # Packages
 node_modules
