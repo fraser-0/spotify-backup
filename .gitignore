@@ -1,0 +1,11 @@
+# IDE
+.idea
+
+# Packages
+node_modules
+
+# Secrets
+.env
+
+# Application files
+playlists
