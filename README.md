@@ -26,3 +26,7 @@ On navigation to http://localhost:3000/run the app will fetch
 the access token and redirect to the callback URI to display the token.
 The playlists will automatically begin to download when navigating 
 to the callback URI and you can see the progress in the console.
+
+## Resources
+
+- [Spotify Developer Hub](https://developer.spotify.com/)
